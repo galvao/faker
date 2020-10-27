@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## 2020-10-27, 1.9.2
+
+- Allow installation with PHP 8.0 [\#2](https://github.com/ergebnis/faker/pull/2) ([localheinz](https://github.com/localheinz))
+
 ## 2019-12-03, v1.9.1
 
 - Add link to PHPStan extension to readme [\#1834](https://github.com/fzaninotto/Faker/pull/1834) ([finwe](https://github.com/finwe))
